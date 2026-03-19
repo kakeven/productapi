@@ -18,13 +18,13 @@ O projeto segue uma arquitetura em camadas (Controller → Service → Repositor
 
 ## 📁 Estrutura do projeto
 
-
+```bash
 productapi/
-├── controller/ # Camada de entrada (endpoints REST)
-├── service/ # Regras de negócio
-├── repository/ # Acesso ao banco de dados
-├── model/ # Entidades
-├── exception/ # Tratamento de erros
+├── controller/     # Camada de entrada (endpoints REST)
+├── service/        # Regras de negócio
+├── repository/     # Acesso ao banco de dados
+├── model/          # Entidades
+├── exception/      # Tratamento de erros
 └── ProductapiApplication.java
 
 
