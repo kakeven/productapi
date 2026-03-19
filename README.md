@@ -27,7 +27,7 @@ productapi/
 ├── exception/      # Tratamento de erros
 └── ProductapiApplication.java
 
-
+```
 ---
 
 ## 📌 Funcionalidades
