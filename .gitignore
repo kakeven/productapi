@@ -4,6 +4,7 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+Projeto_API_Gestao_Produtos_SpringBoot.pdf
 
 ### STS ###
 .apt_generated
